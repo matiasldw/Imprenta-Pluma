@@ -357,6 +357,11 @@ input[type="submit"]:hover{
     background: #0f1c27;
 }
 
+.grupo_2 span{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
 /* ANIMACION */
 
 .animacion{
