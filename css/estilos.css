@@ -445,6 +445,10 @@ input[type="submit"]:hover{
         grid-gap: 30px;
         padding: 35px 0;
     }
+}
 
-
+@media screen and (max-width:450px){
+    form{
+        width: 100%;
+    }
 }
